@@ -13,5 +13,30 @@
  */
 
 body {
+	width: 960px;
 	background: url('polkadot5.gif');
+}
+
+.sfheader {
+	width: 900px;
+	margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+	background-color: #FFF;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.sfbody {
+	width: 900px;
+	margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 15px;
+	background-color: #FFF;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	border: 1px solid #000;
+	text-align: center;
 }
